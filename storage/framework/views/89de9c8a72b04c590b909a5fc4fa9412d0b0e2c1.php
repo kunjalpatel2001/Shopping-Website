@@ -1,0 +1,1 @@
+<?php /**PATH /home/retailindia/domains/retailindia.shop/public_html/resources/views/themes/eCart_02/parts/categories.blade.php ENDPATH**/ ?>

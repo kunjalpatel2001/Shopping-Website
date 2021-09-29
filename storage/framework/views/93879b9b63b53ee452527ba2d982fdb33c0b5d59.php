@@ -1,0 +1,1 @@
+<?php /**PATH /home2/chachaki/public_html/resources/views/themes/eCart_02/parts/categories.blade.php ENDPATH**/ ?>

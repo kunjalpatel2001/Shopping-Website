@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "retailindia-abd97",
+  "private_key_id": "ad85107af05691b4c3848990b9e1c75870468c1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhEZCdAlXPV05e\nl1AzNovOW9rOQUvAtLJH3RPZEPcJFi20qaSkCK1G31MLBl+fYvEsGVMyyevUJnjH\nrCgF1ieNskE5ZBvfYvjAG+zecAYijUQ1TUFZK+L51MkDrfZk7ifxDJmCfEpRh6sK\n98qp9sf+SwB48TFfHJ63kl6RQ8gb8cb81A1nf0XZqsSkVnouhAXWePnkmc1qTgiB\n/OsELVbWGQAqN60QJEk5z09Vepau6RwLHQ6b5f7DrASMN2C5htCAEOuxFGHoDLl1\nHHzXt8Ql2qRIkScs5aqAJ4CB6EbuZ/VeAB5g6AaedqCOwYNukEENcnL+v1G4bdiP\nlgoeVdRlAgMBAAECgf9FV4Ej7I+axk/z2VuDzYuP0Kpl73b3pxrEDfcwE0/RMmXU\nkqd/cpf5iGT2Kn40P/PMzEsgQ3LnVQWpXnhX+5BZXXF+dPMA23QABqPTRi4IwaKM\nmvZBa6pv7K9Q/okQfPcXJ+HirvQRgtuWKGTBR+VIKQajzLBkuUK40xCaMydYEmMD\nQGV42mkaW/z8SbaQvx8yBSrEHKG5kPUABXZejlllxENLG6F6qWWfMm+7hhtYalyI\n0FJB5/4Dp8w+6LnkhgQ8/2iwuAqMWEkXo13bDq0zs2N1H+pzqSmtb4kBp6L+Co94\n9w896PltTeTOOZ97bKWepZTZNfwCBU9+hsOQ/8ECgYEA+NUIcusb6KbVk6HwBQpt\n+lbiciH+0E0894b7g1zOt0NgYgCNEpxayBXk0abVP1xdNWDNYNXqiHgIzHd+JI6p\nXgae7VHqe/MCcbgZB+idcVtn8p02VBixjviKn+WVpmKOn2onlgudyvjezseb9zjH\nvpQYI0U2MA8k6AZhgsG/E5kCgYEA541Kv3CpJQrNKip1ijZsKD/OPif4af35ItpS\nwjXi126zdvXFOnq+3v7Q7Qh5mkFFkH3HDxdj7nf6lBvA0ix5a0fjByyWWeCqr+Tr\nEeZovGjLqHsRjrMkt3djl+Mr1VQBYcyMcuONR1vdxYAuTpsxBDgiPrb2yiR89Yhv\npfvABq0CgYEAj6vxROkbJCmwB53oyABNn82q0dtvFTaDjSgS8LYVZRsx+2P2EFjW\n0dBSXfrGBd9+seNCsjbRRBqKegREgTcd83w/Jye1C/wz3RU+3qIgxeLREfRT+hqH\n6tT2tXwJ/BfL4Z+ZW7k5Uoh/nUUDeKsAKbm4diTwNK+Jz65ffu//M4ECgYEAvZIw\nyzEaWehQ9h+S4ZgSzpUGbl7dAzHaAY3KyZPCZuwL4+3tDiamE/184ULaA89Ce7xt\n904IE5mIvi9GmwusUIenOB1p7qWAOMdrKNmBkBcf/YzcX/8MpWQKVrS3E01WYFJN\n/lWMOgrdMy/xOYvXAoROjRfQTsi2wXJ1LehBW3UCgYEAgrKHdhbaEq428AgfoZgL\nTWUG9zWkNpGnPYhZDKEPEAiOtjKBBirH5a2o98BiaixwYWxXOwJVyx8Xv12RdfUh\nHbODMD8EidRPlBAny7NRr/r8eCDk5nwGEgVX7HAdthgvPMdbmhUTSKKuH/f2ugPH\nPLZpkMazuYSFTxhFzodYXd0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-eyxgc@retailindia-abd97.iam.gserviceaccount.com",
+  "client_id": "101159195546087847375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-eyxgc%40retailindia-abd97.iam.gserviceaccount.com"
+}
